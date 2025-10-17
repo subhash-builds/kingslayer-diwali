@@ -8,7 +8,7 @@
 
     <groupId>5c158c1e-35da-4613-99f2-e5b166594ea1</groupId>
     <artifactId>kingslayer</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.3</version>
     <packaging>mule-application</packaging>
 
     <name>kingslayer</name>
